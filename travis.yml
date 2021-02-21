@@ -8,4 +8,4 @@ env:
 
 services:
    mongodb
-script: gulp travis
+script: nodemon index.js
